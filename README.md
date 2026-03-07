@@ -7,7 +7,7 @@ Este software foi desenvolvido para o uso de medição do ângulo de flancos de 
 
 O algoritmo de detecção espera uma Região de Interesse (ROI) determinada pelo usuário, realiza transformações de cores na imagem, depois aplica um Canny, busca por segmentos de pixels que formam linhas e finalmente calcula o ângulo entre segmentos distintos. Erros de execução são interceptados pelo Exceptions.py.
 
-<img class="center" src="TAMS Menu.PNG" alt="Menu inicial do software" style="width: 600px; height: auto">
+<img class="center" src="TAMS menu.PNG" alt="Menu inicial do software" style="width: 600px; height: auto">
 
 <img class="center" src="Select ROI.PNG" alt="Janela de seleção de Região de Interesse (ROI)" style="width: 600px; height: auto">
 
