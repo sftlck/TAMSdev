@@ -12,3 +12,5 @@ O algoritmo de detecção espera uma Região de Interesse (ROI) determinada pelo
 <img class="center" src="Select ROI.PNG" alt="Janela de seleção de Região de Interesse (ROI)" style="width: 600px; height: auto">
 
 <img class="center" src="Results.PNG" alt="Resultados de Medição do Calibrador Roscado Cilíndrico" style="width: 600px; height: auto">
+
+O pacote do software inclui um programa para auxílio na calibração de microscópios ópticos. Em um microscópio, é necessário determinar a relação de de comprimento com o tamanho de um pixel para se obter uma constante /alpha de comprimento que cada pixel representa.
