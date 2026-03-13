@@ -1,5 +1,4 @@
-# RoscadosCV
-Software de Medição de Calibradores Roscados
+# Software de Medição de Calibradores Roscados
 
 Este software foi desenvolvido para o uso de medição do ângulo de flancos de calibradores roscados externos cilíndricos ou cônicos. Além de exibir o resultado, o software armazena a imagem capturada com os resultados em uma pasta de arquivos determinada pelo usuário.
 
@@ -13,4 +12,16 @@ O algoritmo de detecção espera uma Região de Interesse (ROI) determinada pelo
 
 <img class="center" src="Results.PNG" alt="Resultados de Medição do Calibrador Roscado Cilíndrico" style="width: 600px; height: auto">
 
-O pacote do software inclui um programa para auxílio na calibração de microscópios ópticos. Em um microscópio, é necessário determinar a relação de de comprimento com o tamanho de um pixel para se obter uma constante /alpha de comprimento que cada pixel representa.
+Para usar o software, é necessário saber qual é a relação entre a resolução de sua câmera e o comprimento real, tilizando a equação comprimento/pixels. Utilize uma Lupa graduada com padrões rastreáveis ao SI para determinar o valor de {SÍMBOLO}. Os softwares auxiliares disponíveis e descritos abaixo fornecem resultados para o cálculo da constante {SÍMBOLO}
+
+{INSERIR FIGURA DA EQUAÇÃO}
+
+## Programa para Medição de Pixel - Comprimento
+
+{TEXTO DE APRESENTAÇÃO}
+{IMAGEM}
+
+## Programa para Medição de Pixel - Ângulo
+
+{TEXTO DE APRESENTAÇÃO}
+{IMAGEM}
